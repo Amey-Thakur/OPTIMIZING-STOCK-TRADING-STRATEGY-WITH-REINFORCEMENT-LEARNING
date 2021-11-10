@@ -2,7 +2,7 @@
  
  [Try the application](https://stock-trading-with-rl.herokuapp.com)
 
-**This project is a part of my Data Science Internship at Technocolabs Softwares.**
+**This project was a part of my Data Science Internship at Technocolabs Softwares.**
 
 ---
 
