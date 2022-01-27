@@ -20,6 +20,7 @@
 
  - **Kaggle - [EDA](https://www.kaggle.com/ameythakur20/exploratory-data-analysis) | [Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | [Dataset](https://www.kaggle.com/ameythakur20/stock-prices)**
  - **LinkedIn Posts - [Certificate of Internship](https://www.linkedin.com/posts/amey-thakur_internship-completion-letter-activity-6846362264937881601-dmoR) | [Project Completion Letter](https://www.linkedin.com/posts/amey-thakur_project-completion-letter-activity-6846363069258579968-EqzC) | [Letter of Recommendation](https://www.linkedin.com/posts/amey-thakur_letter-of-recommendation-activity-6846363513561214976-pqqt)**
+ - **[ResearchGate](http://dx.doi.org/10.13140/RG.2.2.13054.05440)**
 
 ---
 
