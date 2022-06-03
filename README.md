@@ -1,38 +1,38 @@
 # OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
  
- **[Try The Web Application!](https://stock-trading-with-rl.herokuapp.com)**
-
- **This project was a part of my Data Science Internship at Technocolabs Softwares.**
-
----
-
- > **Data Science Internship Project Work**
- 
- - **[Dataset](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/all_stocks_5yr.csv)**
- 
- - **[Blueprint](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/AMEY%20THAKUR%20-%20BLUEPRINT.pdf)**
- 
- - **[Exploratory Data Analysis](https://www.kaggle.com/ameythakur20/exploratory-data-analysis)**
- 
- - **[Stock Price Prediction Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)**
- 
- - **[Project Report](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/PROJECT%20REPORT.pdf)**
- 
- - **[Web Application](https://stock-trading-with-rl.herokuapp.com)**
+  👉🏻  **This project was a part of my Data Science Internship at Technocolabs Softwares.**
+  
+   >**[Try The Web Application!](https://stock-trading-with-rl.herokuapp.com)**
 
 ---
 
- >**Technocolabs Softwares - Data Science Internship**
-
- - **Kaggle - [EDA](https://www.kaggle.com/ameythakur20/exploratory-data-analysis) | [Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | [Dataset](https://www.kaggle.com/ameythakur20/stock-prices)**
+ - **Data Science Internship Project Work**
  
- - **LinkedIn Posts - [Certificate of Internship](https://www.linkedin.com/posts/amey-thakur_internship-completion-letter-activity-6846362264937881601-dmoR) | [Project Completion Letter](https://www.linkedin.com/posts/amey-thakur_project-completion-letter-activity-6846363069258579968-EqzC) | [Letter of Recommendation](https://www.linkedin.com/posts/amey-thakur_letter-of-recommendation-activity-6846363513561214976-pqqt)**
+   - **[Dataset](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/all_stocks_5yr.csv)**
  
- - **[ResearchGate](http://dx.doi.org/10.13140/RG.2.2.13054.05440)**
+   - **[Blueprint](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/AMEY%20THAKUR%20-%20BLUEPRINT.pdf)**
+ 
+   - **[Exploratory Data Analysis](https://www.kaggle.com/ameythakur20/exploratory-data-analysis)**
+ 
+   - **[Stock Price Prediction Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)**
+ 
+   - **[Project Report](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/PROJECT%20REPORT.pdf)**
+ 
+   - **[Web Application](https://stock-trading-with-rl.herokuapp.com)**
 
 ---
 
- > **WEB APPLICATION - [Optimizing Stock Trading Strategy With Reinforcement Learning](https://stock-trading-with-rl.herokuapp.com)**
+ - **Technocolabs Softwares - Data Science Internship**
+
+   - **Kaggle - [EDA](https://www.kaggle.com/ameythakur20/exploratory-data-analysis) | [Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | [Dataset](https://www.kaggle.com/ameythakur20/stock-prices)**
+ 
+   - **LinkedIn Posts - [Certificate of Internship](https://www.linkedin.com/posts/amey-thakur_internship-completion-letter-activity-6846362264937881601-dmoR) | [Project Completion Letter](https://www.linkedin.com/posts/amey-thakur_project-completion-letter-activity-6846363069258579968-EqzC) | [Letter of Recommendation](https://www.linkedin.com/posts/amey-thakur_letter-of-recommendation-activity-6846363513561214976-pqqt)**
+ 
+   - **[ResearchGate](http://dx.doi.org/10.13140/RG.2.2.13054.05440)**
+
+---
+
+ >**WEB APPLICATION - [Optimizing Stock Trading Strategy With Reinforcement Learning](https://stock-trading-with-rl.herokuapp.com)**
 
 ![image](https://user-images.githubusercontent.com/54937357/133926554-433535a5-b4bb-4321-9aaf-f1b1f32da567.png)
 
