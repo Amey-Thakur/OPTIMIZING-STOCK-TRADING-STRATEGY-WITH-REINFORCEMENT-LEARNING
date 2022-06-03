@@ -41,3 +41,9 @@
 ![image](https://user-images.githubusercontent.com/54937357/133926571-39ed380b-4a5f-4857-8a65-189ebb75d713.png)
 
 ![image](https://user-images.githubusercontent.com/54937357/133926579-e79fcb8e-8e00-4cc2-b7ec-0f6883bdea89.png)
+
+---
+
+<p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Technocolabs Softwares 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
