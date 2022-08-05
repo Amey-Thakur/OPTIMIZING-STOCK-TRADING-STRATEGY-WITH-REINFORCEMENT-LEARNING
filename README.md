@@ -17,6 +17,8 @@
    - **[Stock Price Prediction Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)**
  
    - **[Project Report](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/PROJECT%20REPORT.pdf)**
+   
+   - **[Project Demo](https://youtu.be/Q82a93hjxJE)**
  
    - **[Web Application](https://stock-trading-with-rl.herokuapp.com)**
 
