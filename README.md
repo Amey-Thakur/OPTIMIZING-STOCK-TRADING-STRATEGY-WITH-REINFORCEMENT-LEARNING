@@ -34,7 +34,7 @@
 
 ---
 
- >**WEB APPLICATION - [Optimizing Stock Trading Strategy With Reinforcement Learning](https://stock-trading-with-rl.herokuapp.com)**
+ >**WEB APPLICATION - https://stock-trading-with-rl.herokuapp.com**
 
 ![image](https://user-images.githubusercontent.com/54937357/133926554-433535a5-b4bb-4321-9aaf-f1b1f32da567.png)
 
