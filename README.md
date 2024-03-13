@@ -1,6 +1,6 @@
 # OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
  
-  👉🏻  **This project was a part of my Data Science Internship at Technocolabs Softwares.**
+ 👉🏻  **This project was a part of my Data Science Internship at Technocolabs Softwares.**
   
    >**[Try The Web Application!](https://stock-trading-with-rl.herokuapp.com)**
 
