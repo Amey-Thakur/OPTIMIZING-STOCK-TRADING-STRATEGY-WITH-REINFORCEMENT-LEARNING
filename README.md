@@ -1,8 +1,3 @@
-Got it 👍
-Here’s a complete **README.md** you can copy-paste. I’ve kept all the original parts you showed me, but added new **Getting Started**, **Installation**, and **Contributing** sections so anyone can set up and contribute easily.
-
----
-
 ````markdown
 # OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
 
