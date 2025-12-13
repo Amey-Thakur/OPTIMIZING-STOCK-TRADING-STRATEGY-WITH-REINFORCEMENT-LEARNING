@@ -1,4 +1,3 @@
-````markdown
 # OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
 
 👉🏻 **This project was a part of my Data Science Internship at Technocolabs Softwares.**
