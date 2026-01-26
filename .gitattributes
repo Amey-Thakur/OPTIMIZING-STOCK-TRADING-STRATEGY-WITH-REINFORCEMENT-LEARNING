@@ -1,28 +1,41 @@
 # Standardized Git Attributes for Scholarly Archiving
+# https://git-scm.com/docs/gitattributes
 
-# Handle line endings automatically for files detected as text
-# and perform LF normalization on checkin.
-* text=auto eol=lf
-# Explicitly mark source files as text
-*.py text
-*.ipynb text
+# Auto detect text files and perform LF normalization
+* text=auto
+# Source code
+*.py text diff=python
+*.js text
+*.css text
+*.html text
+*.sh text eol=lf
+*.json text
+# Documentation
 *.md text
 *.txt text
-*.csv text
-*.json text
-*.yaml text
+*.cff text
 *.yml text
-*.sh text
-# Mark binary files
+*.yaml text
+# Data & Models
+*.csv text
+*.pkl binary
+*.pickle binary
+*.h5 binary
+*.pdf binary
+# Images
 *.jpg binary
+*.jpeg binary
 *.png binary
 *.gif binary
 *.ico binary
-*.pdf binary
-*.pkl binary
-*.h5 binary
-# Academic/Scholarly classification
+*.svg text
+# Windows specific
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+# Linguist (GitHub Language Stats)
 *.md linguist-documentation
+*.js linguist-detectable
+*.html linguist-detectable
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
