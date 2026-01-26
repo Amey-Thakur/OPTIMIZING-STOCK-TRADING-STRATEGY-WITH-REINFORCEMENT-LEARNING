@@ -12,7 +12,7 @@
 
   A machine learning study demonstrating the application of **Reinforcement Learning (Q-Learning)** algorithms to optimize stock trading strategies and maximize portfolio returns.
   
-  **[Source Code](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/Q82a93hjxJE)** &nbsp;·&nbsp; **[Live Demo](https://stock-trading-with-rl.herokuapp.com)**
+  **[Source Code](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/Q82a93hjxJE)** &nbsp;·&nbsp; **[Live Demo](https://huggingface.co/spaces/ameythakur/Stock-Trading-RL)**
 
   <br>
   
@@ -282,7 +282,7 @@ Special thanks to the **mentors at Technocolabs Software** for providing this pl
 
   <br>
 
-  📈 **[OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](https://stock-trading-with-rl.herokuapp.com)**
+  📈 **[OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](https://huggingface.co/spaces/ameythakur/Stock-Trading-RL)**
 
   ---
 
