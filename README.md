@@ -108,7 +108,7 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 ### Tech Stack
 -   **Runtime**: Python 3.x
 -   **Machine Learning**: NumPy, Pandas
--   **Visualization**: Streamlit, Plotly
+-   **Visualization**: Streamlit, Plotly, Matplotlib, Seaborn
 -   **Algorithm**: Q-Learning (Reinforcement Learning)
 
 ---
