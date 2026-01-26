@@ -146,7 +146,7 @@ def fun():
     st.sidebar.subheader("Enter Your Available Initial Investment Fund")
     invest = st.sidebar.slider('Select a range of values',1000, 1000000)
     if  st.sidebar.button("Calculate", key=2):
-        q_table=pkl.load(open('pickl.pkl','rb'))
+        q_table=pkl.load(open('model.pkl','rb'))
         net_worth=test_stock(stock_df,q_table,invest)
         net_worth=pd.DataFrame(net_worth,columns=['value'])
         fig=go.Figure()
