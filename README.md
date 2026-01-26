@@ -188,6 +188,13 @@ OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/
   <br><br>
   <img src="screenshots/03-portfolio-growth.png" alt="Portfolio Growth" width="80%">
   <br><br>
+
+  <b>4. Analysis Example: ALB Trend</b>
+  <br>
+  <i>Specific stock trend analysis example.</i>
+  <br><br>
+  <img src="screenshots/04-alb-trend.png" alt="ALB Trend" width="80%">
+  <br><br>
 </div>
 
 ---
