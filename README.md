@@ -1,125 +1,292 @@
-# OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
+---
+title: Optimizing Stock Trading Strategy With Reinforcement Learning
+emoji: 📈
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+pinned: false
+license: mit
+short_description: Reinforcement Learning (Q-Learning) for stock trading optimization
+---
 
-👉🏻 **This project was a part of my Data Science Internship at Technocolabs Software.**
+<div align="center">
 
-> **[Try The Web Application!](https://stock-trading-with-rl.herokuapp.com)**
+  <a name="readme-top"></a>
+  # Optimizing Stock Trading Strategy With Reinforcement Learning
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Reinforcement%20Learning-blueviolet)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)
+  [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)
+
+  A machine learning study demonstrating the application of **Reinforcement Learning (Q-Learning)** algorithms to optimize stock trading strategies and maximize portfolio returns.
+  
+  **[Source Code](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/Q82a93hjxJE)** &nbsp;·&nbsp; **[Live Demo](https://stock-trading-with-rl.herokuapp.com)**
+
+  <br>
+  
+  <a href="https://youtu.be/Q82a93hjxJE">
+    <img src="https://img.youtube.com/vi/Q82a93hjxJE/maxresdefault.jpg" alt="Video Demo" width="70%">
+  </a>
+
+</div>
 
 ---
 
-## 🚀 Getting Started
+<div align="center">
 
-### 1. Clone the Repository
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
+
+---
+
+<!-- AUTHORS -->
+<div align="center">
+
+  <a name="authors"></a>
+  ## Authors
+
+  | <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+  | :---: | :---: |
+
+</div>
+
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
+
+---
+
+<!-- OVERVIEW -->
+<a name="overview"></a>
+## Overview
+
+**Optimizing Stock Trading Strategy With Reinforcement Learning** is a Data Science study conducted as part of the **Internship** at **Technocolabs Software**. The project focuses on the development of an intelligent agent capable of making autonomous trading decisions (Buy, Sell, Hold) to maximize profitability.
+
+By leveraging **Q-Learning**, the system models the market environment where an agent learns optimal strategies based on price movements and moving average crossovers. The model is visualized via a **Streamlit** web application for real-time strategy simulation.
+
+### Computational Objectives
+The analysis is governed by strict **exploratory and modeling principles** ensuring algorithmic validity:
+*   **State Representation**: utilization of Short-term and Long-term Moving Average crossovers to define market states.
+*   **Action Space**: Discrete action set (Buy, Sell, Hold) optimized through reward feedback.
+*   **Policy Optimization**: Implementing an Epsilon-Greedy strategy to balance exploration and exploitation of trading rules.
+
+> [!NOTE]
+> ### Research Impact
+> This project was published as a research paper and successfully demonstrated the viability of RL agents in simulated trading environments. The work received official recognition from Technocolabs Software including an **Internship Completion Certificate** and **Letter of Recommendation**.
+>
+> *   [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
+> *   [Project Completion Letter](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Project%20Completion%20Letter.pdf)
+
+### Resources
+
+| # | Resource | Description | Date |
+| :---: | :--- | :--- | :--- |
+| 1 | [**Source Code**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/tree/main/Source%20Code) | Complete production repository and scripts | — |
+| 2 | [**Kaggle Notebook**](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | Interactive Jupyter notebook for model training | — |
+| 3 | [**Dataset**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Source%20Code/all_stocks_5yr.csv) | Historical stock market data (5 Years) | — |
+| 4 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — |
+| 5 | [**Technical Report**](Technocolabs/PROJECT%20REPORT.pdf) | Comprehensive archival project documentation | September 2021 |
+| 6 | [**Blueprint**](Technocolabs/AMEY%20THAKUR%20-%20BLUEPRINT.pdf) | Initial project design and architecture blueprint | September 2021 |
+| 7 | [**Web Application**](https://stock-trading-with-rl.herokuapp.com) | Live deployment of the trading simulation | — |
+
+> [!TIP]
+> ### Market Adaptation
+> The Q-Learning agent's performance relies heavily on the quality of historical data. Regular retraining with recent market data is recommended to adapt the Q-Table's values to shifting market trends and volatility patterns.
+
+---
+
+<!-- FEATURES -->
+<a name="features"></a>
+## Features
+
+| Component | Technical Description |
+|-----------|-----------------------|
+| **Data Ingestion** | Automated loading and processing of historical stock data (CSV). |
+| **Trend Analysis** | Computation of 5-day and 1-day Moving Averages to identify trend signals. |
+| **RL Agent** | **Q-Learning** implementation with state-action mapping for decision autonomy. |
+| **Portfolio Logic** | Dynamic tracking of cash, stock holdings, and total net worth over time. |
+| **Visualization** | Interactive **Streamlit** dashboard using **Plotly** for financial charting. |
+
+> [!NOTE]
+> ### Empirical Context
+> Stock markets are stochastic environments. This project simplifies the state space to Moving Average crossovers to demonstrate the foundational capabilities of Reinforcement Learning in financial contexts, prioritizing pedagogical clarity over high-frequency trading complexity.
+
+### Tech Stack
+-   **Runtime**: Python 3.x
+-   **Machine Learning**: NumPy, Pandas
+-   **Visualization**: Streamlit, Plotly
+-   **Algorithm**: Q-Learning (Reinforcement Learning)
+
+---
+
+<!-- STRUCTURE -->
+<a name="project-structure"></a>
+## Project Structure
+
+```python
+OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/
+│
+├── docs/                                            # Technical Documentation
+│   └── SPECIFICATION.md                             # Architecture & Design Specification
+│
+├── Mega/                                            # Archival Attribution Assets
+│   ├── Filly.jpg                                    # Companion (Filly)
+│   ├── Mega.png                                     # Author Profile Image (Mega Satish)
+│   └── ...                                          # Additional Attribution Files
+│
+├── screenshots/                                     # Application Screenshots
+│   ├── 01-landing-page.png                          # Home Interface
+│   ├── 02-amzn-trend.png                            # Stock Trend Visualization
+│   ├── 03-portfolio-growth.png                      # Portfolio Value Over Time
+│   └── 04-alb-trend.png                             # Analysis Example
+│
+├── Source Code/                                     # Core Implementation
+│   ├── Train_model/                                 # Training Notebooks
+│   │   └── Model.ipynb                              # Q-Learning Implementation
+│   │
+│   ├── .streamlit/                                  # Streamlit Configuration
+│   ├── all_stocks_5yr.csv                           # Historical Dataset
+│   ├── model.pkl                                    # Trained Q-Table (Pickle)
+│   ├── Procfile                                     # Heroku Deployment Config
+│   ├── requirements.txt                             # Dependencies
+│   ├── setup.sh                                     # Environment Setup Script
+│   └── Stock-RL.py                                  # Main Application Script
+│
+├── Technocolabs/                                    # Internship Artifacts
+│   ├── AMEY THAKUR - BLUEPRINT.pdf                  # Design Blueprint
+│   ├── Optimizing Stock Trading...pdf               # Research Paper
+│   ├── PROJECT REPORT.pdf                           # Final Project Report
+│   └── ...                                          # Internship Completion Documents
+│
+├── .gitattributes                                   # Git configuration
+├── .gitignore                                       # Repository Filters
+├── CITATION.cff                                     # Scholarly Citation Metadata
+├── codemeta.json                                    # Machine-Readable Project Metadata
+├── LICENSE                                          # MIT License Terms
+├── README.md                                        # Project Documentation
+└── SECURITY.md                                      # Security Policy
+```
+
+---
+
+<!-- RESULTS -->
+<a name="results"></a>
+## Results
+
+<div align="center">
+  <b>1. User Interface: Landing Page</b>
+  <br>
+  <i>Interactive dashboard for selecting stocks and investment parameters.</i>
+  <br><br>
+  <img src="screenshots/01-landing-page.png" alt="Landing Page" width="80%">
+  <br><br>
+
+  <b>2. Market Analysis: Stock Trend</b>
+  <br>
+  <i>Visualizing historical price movements and trends.</i>
+  <br><br>
+  <img src="screenshots/02-amzn-trend.png" alt="Stock Trend" width="80%">
+  <br><br>
+
+  <b>3. Performance: Portfolio Growth</b>
+  <br>
+  <i>Tracking the agent's performance and portfolio value accumulation.</i>
+  <br><br>
+  <img src="screenshots/03-portfolio-growth.png" alt="Portfolio Growth" width="80%">
+  <br><br>
+</div>
+
+---
+
+<!-- QUICK START -->
+<a name="quick-start"></a>
+## Quick Start
+
+### 1. Prerequisites
+-   **Python 3.7+**: Required for runtime execution. [Download Python](https://www.python.org/downloads/)
+-   **Streamlit**: For running the web application locally.
+
+### 2. Installation
+Establish the local environment by cloning the repository and installing the computational stack:
+
 ```bash
+# Clone the repository
 git clone https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING.git
 cd OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
-````
 
-### 2. Install Dependencies
-
-It’s recommended to use a virtual environment.
-
-```bash
+# Navigate to Source Code directory
 cd "Source Code"
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
-### 3. Add Dataset
-
-Place the dataset inside the `Source Code/` folder in the project:
-
-```
-OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/
-│
-├── Source Code/
-│   ├── all_stocks_5yr.csv
-│   └── Stock-RL.py
-├── Technocolabs/
-│   └── ...
-├── README.md
-```
-
-Or update your script like this:
-
-```python
-import pandas as pd
-df = pd.read_csv("all_stocks_5yr.csv")
-print("Done")
-```
-
-### 4. Run Example
-
+### 3. Execution
+Launch the web server to start the prediction application:
 ```bash
-python Stock-RL.py
+streamlit run Stock-RL.py
 ```
+**Access**: `http://localhost:8501/`
 
 ---
 
-## 🤝 Contributing
+<!-- LICENSE -->
+<a name="license"></a>
+## License
 
-We welcome contributions! To contribute:
+This academic submission, developed for the **Data Science Internship** at **Technocolabs Software**, is made available under the **MIT License**. See the [LICENSE](LICENSE) file for complete terms.
 
-1. **Fork** the repository on GitHub.
-2. **Clone** your fork:
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
 
-   ```bash
-   git clone https://github.com/your-username/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING.git
-   ```
-3. **Create a branch** for your changes:
-
-   ```bash
-   git checkout -b feature/my-improvement
-   ```
-4. **Make changes** (e.g., update code, fix bugs, or improve docs).
-5. **Commit** your changes:
-
-   ```bash
-   git add .
-   git commit -m "docs: improve README setup instructions"
-   ```
-6. **Push** your branch:
-
-   ```bash
-   git push origin feature/my-improvement
-   ```
-7. **Open a Pull Request** on GitHub. 🎉
+**Copyright © 2021 Amey Thakur & Mega Satish**
 
 ---
 
-## 📂 Project Resources
+<!-- ABOUT -->
+<a name="about-this-repository"></a>
+## About This Repository
 
-* **Data Science Internship Project Work**
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)  
+**Role**: Data Science Interns  
+**Program**: Data Science Internship  
+**Organization**: [Technocolabs Software](https://technocolabs.com/)
 
-  * **[Dataset](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Source%20Code/all_stocks_5yr.csv)**
-  * **[Blueprint](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/AMEY%20THAKUR%20-%20BLUEPRINT.pdf)**
-  * **[Exploratory Data Analysis](https://www.kaggle.com/ameythakur20/exploratory-data-analysis)**
-  * **[Stock Price Prediction Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)**
-  * **[Project Report](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/PROJECT%20REPORT.pdf)**
-  * **[Project Demo](https://youtu.be/Q82a93hjxJE)**
-  * **[Web Application](https://stock-trading-with-rl.herokuapp.com)**
+This project features **Optimizing Stock Trading Strategy With Reinforcement Learning**, a study conducted as part of an industrial internship. It explores the practical application of Q-Learning in financial economics.
 
----
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
-## 🏛️ Technocolabs Software - Data Science Internship
+### Acknowledgments
 
-* **Kaggle**: [EDA](https://www.kaggle.com/ameythakur20/exploratory-data-analysis) | [Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | [Dataset](https://www.kaggle.com/ameythakur20/stock-prices)
-* **LinkedIn Posts**: [Certificate of Internship](https://www.linkedin.com/posts/amey-thakur_internship-completion-letter-activity-6846362264937881601-dmoR) | [Project Completion Letter](https://www.linkedin.com/posts/amey-thakur_project-completion-letter-activity-6846363069258579968-EqzC) | [Letter of Recommendation](https://www.linkedin.com/posts/amey-thakur_letter-of-recommendation-activity-6846363513561214976-pqqt)
-* **[ResearchGate](http://dx.doi.org/10.13140/RG.2.2.13054.05440)**
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during the execution of this data science internship task. Her analytical precision, deep understanding of statistical modeling, and constant support were instrumental in refining the learning algorithms used in this study. Working alongside her was a transformative experience; her thoughtful approach to problem-solving and steady encouragement turned complex challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Mega, for everything you shared and taught along the way.
 
----
-
-> **WEB APPLICATION - [https://stock-trading-with-rl.herokuapp.com](https://stock-trading-with-rl.herokuapp.com)**
-
-![image](https://user-images.githubusercontent.com/54937357/133926554-433535a5-b4bb-4321-9aaf-f1b1f32da567.png)
-
-![image](https://user-images.githubusercontent.com/54937357/133926561-833f79e0-73c4-487f-a122-cd520826c8fb.png)
-
-![image](https://user-images.githubusercontent.com/54937357/133926571-39ed380b-4a5f-4857-8a65-189ebb75d713.png)
-
-![image](https://user-images.githubusercontent.com/54937357/133926579-e79fcb8e-8e00-4cc2-b7ec-0f6883bdea89.png)
+Special thanks to the **mentors at Technocolabs Software** for providing this platform for rapid skill development and industrial exposure.
 
 ---
 
-<p align="center"><b> 👉🏻 Presented as a part of the Internship @ Technocolabs Software 👈🏻 </b></p>
+<div align="center">
 
-<p align="center"><a href='https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING' style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</a></p>
-``` 
+  [↑ Back to Top](#readme-top)
+
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+  <br>
+
+  📈 **[OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](https://stock-trading-with-rl.herokuapp.com)**
+
+  ---
+
+  ### Presented as part of the Data Science Internship @ Technocolabs Software
+
+  ---
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
