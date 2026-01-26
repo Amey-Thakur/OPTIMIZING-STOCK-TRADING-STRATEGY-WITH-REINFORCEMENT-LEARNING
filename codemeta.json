@@ -1,0 +1,43 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "OPTIMIZING STOCK TRADING STRATEGY WITH REINFORCEMENT LEARNING",
+    "description": "Data Science Internship at Technocolabs Software. Task: To optimize stock trading strategy using Reinforcement Learning. The solution implements Q-Learning and a Streamlit-based web interface for real-time strategy visualization.",
+    "identifier": "OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "Python"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557"
+        }
+    ],
+    "dateReleased": "2021-09-18",
+    "codeRepository": "https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Data Science / Reinforcement Learning",
+    "keywords": [
+        "Technocolabs Software",
+        "Data Science",
+        "Stock Trading",
+        "Reinforcement Learning",
+        "Q-Learning",
+        "Python3",
+        "Pandas",
+        "Numpy",
+        "Streamlit"
+    ],
+    "relatedLink": [
+        "https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING"
+    ]
+}
