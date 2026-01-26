@@ -211,6 +211,11 @@ OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/
 -   **Python 3.7+**: Required for runtime execution. [Download Python](https://www.python.org/downloads/)
 -   **Streamlit**: For running the web application locally.
 
+> [!WARNING]
+> **Data Consistency**
+>
+> The Q-Learning agent depends on proper state definitions. Ensure that the input dataset contains the required `date`, `close`, and `Name` columns to correctly compute the Moving Average crossovers used for state discretization.
+
 ### 2. Installation
 Establish the local environment by cloning the repository and installing the computational stack:
 
