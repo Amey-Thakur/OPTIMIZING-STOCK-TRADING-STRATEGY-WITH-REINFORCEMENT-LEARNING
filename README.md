@@ -1,6 +1,6 @@
 # OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
 
-👉🏻 **This project was a part of my Data Science Internship at Technocolabs Softwares.**
+👉🏻 **This project was a part of my Data Science Internship at Technocolabs Software.**
 
 > **[Try The Web Application!](https://stock-trading-with-rl.herokuapp.com)**
 
@@ -10,7 +10,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hmati/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING.git
+git clone https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING.git
 cd OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
 ````
 
@@ -19,34 +19,37 @@ cd OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
 It’s recommended to use a virtual environment.
 
 ```bash
+cd "Source Code"
 pip install -r requirements.txt
 ```
 
 ### 3. Add Dataset
 
-Place the dataset inside a `data/` folder in the project:
+Place the dataset inside the `Source Code/` folder in the project:
 
 ```
 OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/
 │
-├── data/
-│   └── all_stocks_5yr.csv
+├── Source Code/
+│   ├── all_stocks_5yr.csv
+│   └── Stock-RL.py
+├── Technocolabs/
+│   └── ...
 ├── README.md
-├── your_code.py
 ```
 
 Or update your script like this:
 
 ```python
 import pandas as pd
-df = pd.read_csv("data/all_stocks_5yr.csv")
+df = pd.read_csv("all_stocks_5yr.csv")
 print("Done")
 ```
 
 ### 4. Run Example
 
 ```bash
-python your_script.py
+python Stock-RL.py
 ```
 
 ---
@@ -86,17 +89,17 @@ We welcome contributions! To contribute:
 
 * **Data Science Internship Project Work**
 
-  * **[Dataset](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/all_stocks_5yr.csv)**
-  * **[Blueprint](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/AMEY%20THAKUR%20-%20BLUEPRINT.pdf)**
+  * **[Dataset](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Source%20Code/all_stocks_5yr.csv)**
+  * **[Blueprint](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/AMEY%20THAKUR%20-%20BLUEPRINT.pdf)**
   * **[Exploratory Data Analysis](https://www.kaggle.com/ameythakur20/exploratory-data-analysis)**
   * **[Stock Price Prediction Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)**
-  * **[Project Report](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/PROJECT%20REPORT.pdf)**
+  * **[Project Report](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/PROJECT%20REPORT.pdf)**
   * **[Project Demo](https://youtu.be/Q82a93hjxJE)**
   * **[Web Application](https://stock-trading-with-rl.herokuapp.com)**
 
 ---
 
-## 🏛️ Technocolabs Softwares - Data Science Internship
+## 🏛️ Technocolabs Software - Data Science Internship
 
 * **Kaggle**: [EDA](https://www.kaggle.com/ameythakur20/exploratory-data-analysis) | [Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | [Dataset](https://www.kaggle.com/ameythakur20/stock-prices)
 * **LinkedIn Posts**: [Certificate of Internship](https://www.linkedin.com/posts/amey-thakur_internship-completion-letter-activity-6846362264937881601-dmoR) | [Project Completion Letter](https://www.linkedin.com/posts/amey-thakur_project-completion-letter-activity-6846363069258579968-EqzC) | [Letter of Recommendation](https://www.linkedin.com/posts/amey-thakur_letter-of-recommendation-activity-6846363513561214976-pqqt)
@@ -116,7 +119,7 @@ We welcome contributions! To contribute:
 
 ---
 
-<p align="center"><b> 👉🏻 Presented as a part of the Internship @ Technocolabs Softwares 👈🏻 </b></p>
+<p align="center"><b> 👉🏻 Presented as a part of the Internship @ Technocolabs Software 👈🏻 </b></p>
 
 <p align="center"><a href='https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING' style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</a></p>
 ``` 
