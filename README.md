@@ -80,7 +80,7 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 | 3 | [**Dataset**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Source%20Code/all_stocks_5yr.csv) | Historical stock market data (5 Years) | — |
 | 4 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — |
 | 5 | [**Technical Report**](Technocolabs/PROJECT%20REPORT.pdf) | Comprehensive archival project documentation | September 2021 |
-| 6 | [**Blueprint**](Technocolabs/AMEY%20THAKUR%20-%20BLUEPRINT.pdf) | Initial project design and architecture blueprint | September 2021 |
+| 6 | [**Blueprint**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/AMEY%20THAKUR%20-%20BLUEPRINT.pdf) | Initial project design and architecture blueprint | September 2021 |
 | 7 | [**Web Application**](https://stock-trading-with-rl.herokuapp.com) | Live deployment of the trading simulation | — |
 
 > [!TIP]
