@@ -1,13 +1,4 @@
----
-title: Optimizing Stock Trading Strategy With Reinforcement Learning
-emoji: 📈
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-pinned: false
-license: mit
-short_description: Reinforcement Learning (Q-Learning) for stock trading optimization
----
+
 
 <div align="center">
 
