@@ -2,3 +2,7 @@
 base="dark"
 primaryColor="#02eaf9"
 font="serif"
+
+[browser]
+gatherUsageStats = false
+
