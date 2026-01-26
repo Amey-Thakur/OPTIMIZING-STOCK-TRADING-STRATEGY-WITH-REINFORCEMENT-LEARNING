@@ -81,7 +81,7 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 | 4 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — |
 | 5 | [**Technical Report**](Technocolabs/PROJECT%20REPORT.pdf) | Comprehensive archival project documentation | September 2021 |
 | 6 | [**Blueprint**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING/blob/main/Technocolabs/AMEY%20THAKUR%20-%20BLUEPRINT.pdf) | Initial project design and architecture blueprint | September 2021 |
-| 7 | [**Web Application**](https://stock-trading-with-rl.herokuapp.com) | Live deployment of the trading simulation | — |
+
 
 > [!TIP]
 > ### Market Adaptation
