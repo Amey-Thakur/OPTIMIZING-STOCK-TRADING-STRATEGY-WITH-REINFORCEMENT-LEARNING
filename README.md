@@ -26,7 +26,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -240,6 +240,23 @@ streamlit run Stock-RL.py
 
 ---
 
+<!-- USAGE GUIDELINES -->
+<a name="usage-guidelines"></a>
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the machine learning and algorithmic trading community.
+
+**For Students**  
+Use this project as reference material for understanding **Deep Reinforcement Learning (Q-Learning)**, **state-action discretisation**, and **financial reward shaping**. The source code is available for study to facilitate self-paced learning and exploration of **moving average strategies**.
+
+**For Educators**  
+This project may serve as a practical lab example or supplementary teaching resource for **Computational Finance**, **Artificial Intelligence**, and **Quantitative Trading** courses. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and architectural approach may provide insights into **simplified market modeling**, **policy iteration in volatile environments**, and **industrial internship artifacts**.
+
+---
+
 <!-- LICENSE -->
 <a name="license"></a>
 ## License
@@ -278,7 +295,7 @@ Special thanks to the **mentors at Technocolabs Software** for providing this pl
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
