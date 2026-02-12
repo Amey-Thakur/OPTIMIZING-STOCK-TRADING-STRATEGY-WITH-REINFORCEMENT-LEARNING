@@ -314,5 +314,3 @@ Special thanks to the **mentors at Technocolabs Software** for providing this pl
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
-
-
