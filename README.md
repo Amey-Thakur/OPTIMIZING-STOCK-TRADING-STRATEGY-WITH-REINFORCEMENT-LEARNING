@@ -239,11 +239,12 @@ streamlit run Stock-RL.py
 **Access**: `http://localhost:8501/`
   
 > [!TIP]
-> ### High-Fidelity Stock Trading Simulation | Reinforcement Learning Agent
+> ### Stock Trading Simulation | Reinforcement Learning Agent
 > 
-> Experience the interactive **Stock Trading RL** simulation directly in your browser through the working **Hugging Face Space**. This platform features a **Q-Learning** agent that executes autonomous trading decisions based on real-time **Moving Average (MA)** signal processing, providing a high-fidelity visualization of algorithmic portfolio management and cumulative return optimization.
+> Experience the interactive **Stock Trading RL** simulation directly in your browser through the working **Hugging Face Space**. This platform features a **Q-Learning** agent that executes autonomous trading decisions based on real-time **Moving Average (MA)** signal processing, providing a visual representation of algorithmic portfolio management and cumulative return optimization.
 >
 > [**Launch Model on Hugging Face**](https://huggingface.co/spaces/ameythakur/Stock-Trading-RL)
+
 
 ---
 
