@@ -11,3 +11,7 @@ title: "OPTIMIZING STOCK TRADING STRATEGY WITH REINFORCEMENT LEARNING"
 version: 1.0.0
 date-released: 2021-09-18
 url: "https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING"
+identifiers:
+  - type: other
+    value: "2021-09-18"
+    description: "Date this repository was created on GitHub."

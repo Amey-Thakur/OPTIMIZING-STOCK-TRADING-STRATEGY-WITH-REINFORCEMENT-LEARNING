@@ -1,0 +1,35 @@
+# Optimizing Stock Trading Strategy With Reinforcement Learning
+
+> Machine Learning Project to Optimize Stock Trading Strategies Using
+> Reinforcement Learning.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 18 September 2021
+
+## What is in this repository
+
+- Mega, 6 files
+- Source Code, 9 files
+- Technocolabs, 7 files
+- docs, 1 file
+- screenshots, 4 files
+- Dockerfile
+
+## Subject terms
+
+algorithmic-trading, autonomous-agents, data-science, machine-learning,
+moving-average, plotly, python, q-learning, quantitative-finance,
+reinforcement-learning, stock-market, stock-price-prediction,
+stock-trading, stock-trading-rl, technocolabs
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://huggingface.co/spaces/ameythakur/Stock-Trading-RL
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
